@@ -46,16 +46,19 @@ Here are some ideas to get you started:
 
 
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyangshu-chakraborty&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyangshu-chakraborty&theme=radical" width="48%" /> </p>
-🔥 Featured Projects
-Project Name	Tech Stack	Description
-SmartParking	Java, Oracle DB	Smart slot allocation system
-Webtechnologieslab	HTML, CSS	Lab exercises for frontend dev
-Devops	Java, Maven, CI/CD	DevOps demos and pipeline setup
-music_player	JavaScript, HTML, CSS	UI for a basic web-based music player
-pals	JavaScript	Collaboration features prototype
-Yaavarum Nalam	React Native, Firebase, IoT	Full-stack emergency response application
 
-📫 Let’s Connect
+### 🔥 Featured Projects
+
+| Project Name        | Tech Stack                 | Description                                      |
+|---------------------|----------------------------|--------------------------------------------------|
+| SmartParking        | Java, Oracle DB            | Smart slot allocation system                     |
+| Webtechnologieslab  | HTML, CSS                  | Lab exercises for frontend dev                   |
+| Devops              | Java, Maven, CI/CD         | DevOps demos and pipeline setup                  |
+| music_player        | JavaScript, HTML, CSS      | UI for a basic web-based music player            |
+| pals                | JavaScript                 | Collaboration features prototype                 |
+| Yaavarum Nalam      | React Native, Firebase, IoT| Full-stack emergency response application        |
+
+### 📫 Let’s Connect
 <p align="left"> <a href="www.linkedin.com/in/priyangshu-chakraborty-a52686244" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your-email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
